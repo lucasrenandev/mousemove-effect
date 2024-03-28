@@ -1,2 +1,1 @@
-# mousemove-effect
-Mousemove Effect with CSS &amp; JavaScript
+# Mousemove Effect with CSS &amp; JavaScript
